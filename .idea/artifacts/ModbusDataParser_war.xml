@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ModbusDataParser:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="modbus-data-parser.war">
+      <element id="artifact" artifact-name="ModbusDataParser:war exploded" />
+    </root>
+  </artifact>
+</component>

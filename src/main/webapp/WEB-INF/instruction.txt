@@ -1,0 +1,46 @@
+1 2 REAL4 m^3/h Flow rate
+3 4 REAL4 GJ/h Energy flow rate
+5 6 REAL4 m/s Velocity
+9 10 LONG null Positive accumulator
+11 12 REAL4 null Positive decimal fraction
+13 14 LONG null Negative accumulator
+15 16 REAL4 null Negative decimal fraction
+17 18 LONG null Positive energy accumulator
+19 20 REAL4 null Positive energy decimal fraction
+21 22 LONG null Negative energy accumulator
+23 24 REAL4 null Negative energy decimal fraction
+25 26 LONG null Net accumulator
+27 28 REAL4 null Net decimal fraction
+29 30 LONG null Net energy accumulator
+31 32 REAL4 null Net energy decimal fraction
+33 34 REAL4 C Temperature #1/inlet
+35 36 REAL4 C Temperature #2/outlet
+37 38 REAL4 null Analog input at AI3
+39 40 REAL4 null Analog input at AI4
+41 42 REAL4 null Analog input at AI5
+43 44 REAL4 mA Current input at AI3
+45 46 REAL4 mA Current input at AI4
+47 48 REAL4 mA Current input at AI5
+49 50 BCD null System password
+51 51 BCD null Password for hardware
+53 55 BCD SMHDMY Calendar (date and time)
+56 56 BCD DH Day+Hour for Auto-Save
+59 59 INTEGER null Key to input
+60 60 INTEGER null Go to Window #
+61 61 INTEGER null LCD Back-lit lights for number of seconds
+62 62 INTEGER null Times for the beeper
+63 63 INTEGER null Pulses left for OCT
+72 72 BIT_ERROR null Error Code
+77 78 REAL4 Ohm PT100 resistance of inlet
+79 80 REAL4 Ohm PT100 resistance of outlet
+81 82 REAL4 μs Total travel time
+83 84 REAL4 ns Delta travel time
+85 86 REAL4 μs Upstream travel time
+87 88 REAL4 μs Downstream travel time
+89 90 REAL4 mA Output current
+92 92 INTEGER_QUALITY null Working step : Signal Quality
+93 93 INTEGER null Upstream strength
+94 94 INTEGER null Downstream strength
+96 96 INTEGER_LANGUAGE null Language used in user interface
+97 98 REAL4 null The rate of the measured travel time by the calculated travel time
+99 100 REAL4 null Reynolds number

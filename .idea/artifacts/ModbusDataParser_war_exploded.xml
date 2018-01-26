@@ -6,6 +6,10 @@
         <element id="directory" name="classes">
           <element id="module-output" name="ModbusDataParser" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: javax.servlet:jstl:1.0" />
+          <element id="library" level="project" name="Maven: taglibs:standard:1.1.2" />
+        </element>
       </element>
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/target/modbus-data-parser/META-INF/MANIFEST.MF" />

@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab76f448-f1a7-4e0c-90f7-b76fb47b4f6a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/ModbusDataParser_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/ModbusDataParser_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ModbusDataParser.iml" afterPath="$PROJECT_DIR$/ModbusDataParser.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/modbus-data-parser/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/target/modbus-data-parser/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/css/parsedData.css" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/css/parsedData.css" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -44,7 +38,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="parsedData.jsp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="parsedData.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/parsedData.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
@@ -54,11 +48,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="parsedData.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="parsedData.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/css/parsedData.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+              <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -125,13 +119,13 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1516966483045" expanded="true" signature="76745:76989" ph="..." />
-                <marker date="1516966483045" expanded="true" signature="76745:77004" ph="..." />
-                <marker date="1516966483045" expanded="true" signature="76745:77018" ph="..." />
-                <marker date="1516966483045" expanded="true" signature="76745:77033" ph="..." />
-                <marker date="1516966483045" expanded="true" signature="76791:76969" ph="..." />
-                <marker date="1516966483045" expanded="true" signature="76831:76935" ph="..." />
-                <marker date="1516966483045" expanded="true" signature="76852:76913" ph="..." />
+                <marker date="1516967452271" expanded="true" signature="75911:76155" ph="..." />
+                <marker date="1516967452271" expanded="true" signature="75911:76170" ph="..." />
+                <marker date="1516967452271" expanded="true" signature="75911:76184" ph="..." />
+                <marker date="1516967452271" expanded="true" signature="75911:76199" ph="..." />
+                <marker date="1516967452271" expanded="true" signature="75957:76135" ph="..." />
+                <marker date="1516967452271" expanded="true" signature="75997:76101" ph="..." />
+                <marker date="1516967452271" expanded="true" signature="76018:76079" ph="..." />
               </folding>
             </state>
           </provider>
@@ -176,8 +170,8 @@
         <option value="$PROJECT_DIR$/src/main/java/parser/ModbusDataParser.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/parsedData.css" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/css/parsedData.css" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/parsedData.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/css/parsedData.css" />
       </list>
     </option>
   </component>
@@ -1064,12 +1058,12 @@
       <updated>1516896291337</updated>
       <workItem from="1516896295775" duration="2435000" />
       <workItem from="1516921349609" duration="2177000" />
-      <workItem from="1516923842693" duration="12532000" />
+      <workItem from="1516923842693" duration="13448000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17144000" />
+    <option name="totallyTimeSpent" value="18060000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -1188,13 +1182,13 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1516966483045" expanded="true" signature="76745:76989" ph="..." />
-            <marker date="1516966483045" expanded="true" signature="76745:77004" ph="..." />
-            <marker date="1516966483045" expanded="true" signature="76745:77018" ph="..." />
-            <marker date="1516966483045" expanded="true" signature="76745:77033" ph="..." />
-            <marker date="1516966483045" expanded="true" signature="76791:76969" ph="..." />
-            <marker date="1516966483045" expanded="true" signature="76831:76935" ph="..." />
-            <marker date="1516966483045" expanded="true" signature="76852:76913" ph="..." />
+            <marker date="1516967452271" expanded="true" signature="75911:76155" ph="..." />
+            <marker date="1516967452271" expanded="true" signature="75911:76170" ph="..." />
+            <marker date="1516967452271" expanded="true" signature="75911:76184" ph="..." />
+            <marker date="1516967452271" expanded="true" signature="75911:76199" ph="..." />
+            <marker date="1516967452271" expanded="true" signature="75957:76135" ph="..." />
+            <marker date="1516967452271" expanded="true" signature="75997:76101" ph="..." />
+            <marker date="1516967452271" expanded="true" signature="76018:76079" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1306,13 +1300,13 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1516966483045" expanded="true" signature="76745:76989" ph="..." />
-            <marker date="1516966483045" expanded="true" signature="76745:77004" ph="..." />
-            <marker date="1516966483045" expanded="true" signature="76745:77018" ph="..." />
-            <marker date="1516966483045" expanded="true" signature="76745:77033" ph="..." />
-            <marker date="1516966483045" expanded="true" signature="76791:76969" ph="..." />
-            <marker date="1516966483045" expanded="true" signature="76831:76935" ph="..." />
-            <marker date="1516966483045" expanded="true" signature="76852:76913" ph="..." />
+            <marker date="1516967452271" expanded="true" signature="75911:76155" ph="..." />
+            <marker date="1516967452271" expanded="true" signature="75911:76170" ph="..." />
+            <marker date="1516967452271" expanded="true" signature="75911:76184" ph="..." />
+            <marker date="1516967452271" expanded="true" signature="75911:76199" ph="..." />
+            <marker date="1516967452271" expanded="true" signature="75957:76135" ph="..." />
+            <marker date="1516967452271" expanded="true" signature="75997:76101" ph="..." />
+            <marker date="1516967452271" expanded="true" signature="76018:76079" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1390,18 +1384,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/css/parsedData.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/parsedData.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="45" lean-forward="true" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/css/parsedData.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
           <folding />
         </state>
       </provider>

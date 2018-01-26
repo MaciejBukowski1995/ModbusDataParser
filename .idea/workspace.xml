@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab76f448-f1a7-4e0c-90f7-b76fb47b4f6a" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/ModbusDataParser_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/ModbusDataParser_war_exploded.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ModbusDataParser.iml" afterPath="$PROJECT_DIR$/ModbusDataParser.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -16,11 +20,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" column="14" lean-forward="false" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+            <state relative-caret-position="225">
+              <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -42,17 +46,17 @@
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/parsedData.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="45" lean-forward="true" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+              <caret line="9" column="45" lean-forward="false" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="parsedData.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="parsedData.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/css/parsedData.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+              <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -119,13 +123,13 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1516967912413" expanded="true" signature="75725:75969" ph="..." />
-                <marker date="1516967912413" expanded="true" signature="75725:75984" ph="..." />
-                <marker date="1516967912413" expanded="true" signature="75725:75998" ph="..." />
-                <marker date="1516967912413" expanded="true" signature="75725:76013" ph="..." />
-                <marker date="1516967912413" expanded="true" signature="75771:75949" ph="..." />
-                <marker date="1516967912413" expanded="true" signature="75811:75915" ph="..." />
-                <marker date="1516967912413" expanded="true" signature="75832:75893" ph="..." />
+                <marker date="1516971383019" expanded="true" signature="76426:76670" ph="..." />
+                <marker date="1516971383019" expanded="true" signature="76426:76685" ph="..." />
+                <marker date="1516971383019" expanded="true" signature="76426:76699" ph="..." />
+                <marker date="1516971383019" expanded="true" signature="76426:76714" ph="..." />
+                <marker date="1516971383019" expanded="true" signature="76472:76650" ph="..." />
+                <marker date="1516971383019" expanded="true" signature="76512:76616" ph="..." />
+                <marker date="1516971383019" expanded="true" signature="76533:76594" ph="..." />
               </folding>
             </state>
           </provider>
@@ -164,7 +168,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/instruction.txt" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/models/rowModel.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/modbus/servlets/Servlet.java" />
         <option value="$PROJECT_DIR$/src/main/java/parser/ModbusDataParser.java" />
@@ -172,6 +175,7 @@
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/parsedData.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/css/parsedData.css" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -1058,12 +1062,12 @@
       <updated>1516896291337</updated>
       <workItem from="1516896295775" duration="2435000" />
       <workItem from="1516921349609" duration="2177000" />
-      <workItem from="1516923842693" duration="13873000" />
+      <workItem from="1516923842693" duration="15324000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18485000" />
+    <option name="totallyTimeSpent" value="19936000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -1182,13 +1186,13 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1516967912413" expanded="true" signature="75725:75969" ph="..." />
-            <marker date="1516967912413" expanded="true" signature="75725:75984" ph="..." />
-            <marker date="1516967912413" expanded="true" signature="75725:75998" ph="..." />
-            <marker date="1516967912413" expanded="true" signature="75725:76013" ph="..." />
-            <marker date="1516967912413" expanded="true" signature="75771:75949" ph="..." />
-            <marker date="1516967912413" expanded="true" signature="75811:75915" ph="..." />
-            <marker date="1516967912413" expanded="true" signature="75832:75893" ph="..." />
+            <marker date="1516971383019" expanded="true" signature="76426:76670" ph="..." />
+            <marker date="1516971383019" expanded="true" signature="76426:76685" ph="..." />
+            <marker date="1516971383019" expanded="true" signature="76426:76699" ph="..." />
+            <marker date="1516971383019" expanded="true" signature="76426:76714" ph="..." />
+            <marker date="1516971383019" expanded="true" signature="76472:76650" ph="..." />
+            <marker date="1516971383019" expanded="true" signature="76512:76616" ph="..." />
+            <marker date="1516971383019" expanded="true" signature="76533:76594" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1300,13 +1304,13 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1516967912413" expanded="true" signature="75725:75969" ph="..." />
-            <marker date="1516967912413" expanded="true" signature="75725:75984" ph="..." />
-            <marker date="1516967912413" expanded="true" signature="75725:75998" ph="..." />
-            <marker date="1516967912413" expanded="true" signature="75725:76013" ph="..." />
-            <marker date="1516967912413" expanded="true" signature="75771:75949" ph="..." />
-            <marker date="1516967912413" expanded="true" signature="75811:75915" ph="..." />
-            <marker date="1516967912413" expanded="true" signature="75832:75893" ph="..." />
+            <marker date="1516971383019" expanded="true" signature="76426:76670" ph="..." />
+            <marker date="1516971383019" expanded="true" signature="76426:76685" ph="..." />
+            <marker date="1516971383019" expanded="true" signature="76426:76699" ph="..." />
+            <marker date="1516971383019" expanded="true" signature="76426:76714" ph="..." />
+            <marker date="1516971383019" expanded="true" signature="76472:76650" ph="..." />
+            <marker date="1516971383019" expanded="true" signature="76512:76616" ph="..." />
+            <marker date="1516971383019" expanded="true" signature="76533:76594" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1337,36 +1341,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="14" lean-forward="false" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/modbus/servlets/Servlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="67" lean-forward="false" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="67" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/parsedData.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="45" lean-forward="true" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+          <caret line="9" column="45" lean-forward="false" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
           <folding />
         </state>
       </provider>
@@ -1395,7 +1373,33 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/css/parsedData.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/modbus/servlets/Servlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="67" lean-forward="false" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
           <folding />
         </state>
       </provider>
